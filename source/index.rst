@@ -1,10 +1,10 @@
 
 .. figure:: img/AutoGIS_banner.jpg
 
-Automating GIS-processes 2020
+Automating GIS-processes 2021
 ==============================
 
-**Welcome to the Automating GIS-processes course 2020!** This course introduces you to geographic data analysis in
+**Welcome to the Automating GIS-processes course 2021!** This course introduces you to geographic data analysis in
 the Python programming language through interactive lessons and hands-on exercises. If you are new to Python, we recommend that you start with
 the Geo-Python course materials at `https://geo-python.github.io <https://geo-python.github.io>`_ before diving into the GIS stuff in this course.
 Geo-Python and Automating GIS processes ("AutoGIS") have been developed at the Department of Geosciences and Geography, University of Helsinki, Finland, and
@@ -52,8 +52,8 @@ must clearly reflect your own work (in short, don't copy paste from other studen
 
 .. admonition:: Online teaching
 
-    Please note that the course is organized completely online during the 2020 Autumn semester.
-    Access to zoom, slack and CSC notebooks is available to students at Finnish higher education institutes. Recorded
+    Please note that the course is organized online during the 2021 Autumn semester.
+    Access to Zoom, Slack and CSC notebooks is available to students at Finnish higher education institutes. Recorded
     lesson videos and course materials are openly available to everyone interested.
 
 
@@ -65,7 +65,7 @@ introduced in the Geo-Python course, where we focused on learning the basics of 
 You can find materials from the Geo-Python course at `https://geo-python.github.io <https://geo-python.github.io>`_.
 
 The Automating GIS processes course runs for seven weeks at the University of Helsinki
-starting in the second teaching period on Tuesday the 27th of October 2020. Topics per week are listed below.
+starting in the second teaching period on Tuesday the 2nd of November 2021. Topics per week are listed below.
 Please note that this web page is updated each week before the lesson:
 
 +----------------+---------------------------------+
@@ -93,13 +93,13 @@ Please note that this web page is updated each week before the lesson:
 |                | and interactive maps            |
 |                |                                 |
 +----------------+---------------------------------+
-| **6**          | OpenStreetMap data (osmnx) and  |
-|                | Network analysis (networkx)     |
-|                |                                 |
-+----------------+---------------------------------+
-| **7**          | Course recap and                |
+| **6**          | Course recap and                |
 |                | Preparing for the final         |
 |                | assignment                      |
+|                |                                 |
++----------------+---------------------------------+
+| **7**          | OpenStreetMap data (osmnx) and  |
+|                | Network analysis (networkx)     |
 |                |                                 |
 +----------------+---------------------------------+
 | **Extra**      |  PyQGIS, Raster processing      |
@@ -113,6 +113,7 @@ Please note that this web page is updated each week before the lesson:
 .. admonition:: Earlier versions of the course
 
     Older course materials are available at:
+        - `2020 <https://autogis-site.readthedocs.io/en/2020_/>`__
         - `2019 <https://autogis-site.readthedocs.io/en/2019/>`__
         - `2018 <https://autogis-site.readthedocs.io/en/2018_/>`__
         - `2017 <https://automating-gis-processes.github.io/2017/>`__
@@ -134,8 +135,9 @@ Contents
    course-info/resources
    course-info/License-terms
 
+
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Lesson 1
 
    lessons/L1/overview
@@ -154,6 +156,7 @@ Contents
    notebooks/L2/02-projections.ipynb
    notebooks/L2/03-create-geodataframes.ipynb
    lessons/L2/exercise-2
+
 
 .. toctree::
    :maxdepth: 2
@@ -195,8 +198,8 @@ Contents
    :caption: Lesson 6
 
    lessons/L6/overview
-   notebooks/L6/retrieve_osm_data.ipynb
-   notebooks/L6/network-analysis.ipynb
+   notebooks/L6/00_retrieve_osm_data.ipynb
+   notebooks/L6/01_network_analysis.ipynb
    lessons/L6/exercise-6
 
 .. toctree::

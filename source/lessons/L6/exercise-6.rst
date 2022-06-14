@@ -3,11 +3,11 @@ Exercise 6
 
 .. admonition:: Start your assignment
 
-    You can start working on your copy of Exercise 6 by `accepting the GitHub Classroom assignment <https://classroom.github.com/a/iQT46pDe>`__.
+    You can start working on your copy of Exercise 6 by `accepting the GitHub Classroom assignment <https://classroom.github.com/a/AdmQdIHc>`__.
 
- **Exercise 6 is due by Thursday 10th of December at 5pm** (day before the last practical session!).
+ **Exercise 6 is due by Thursday 23rd of December at 5pm**.
 
-You can also take a look at the open course copy of `Exercise 6 in the course GitHub repository <https://github.com/AutoGIS-2020/Exercise-6>`__ (does not require logging in).
+You can also take a look at the open course copy of `Exercise 6 in the course GitHub repository <https://github.com/AutoGIS-2021/Exercise-6>`__ (does not require logging in).
 Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
 
 Hints
@@ -34,7 +34,7 @@ you can get the corner coordinates of the bounding box from the `total_bounds <h
 - Finally, buffer the bounding box polygon (eg. adding 0.05 decimal degrees to the extent using Shapely's `buffer <https://shapely.readthedocs.io/en/stable/manual.html#object.buffer>`__ method)
 
 **Option 2 - Convex hull:**
-- Specify a Polygon that represents the **convex hull** of the combined points like we did in `Lesson 1 <https://automating-gis-processes.github.io/site/notebooks/L1/geometric-objects.html?highlight=convex%20hull#Geometry-collection--objects%E2%80%99-attributes-and-functions>`__
+- Specify a Polygon that represents the **convex hull** of the combined points like we did in `Lesson 1 <https://autogis-site.readthedocs.io/en/latest/notebooks/L1/geometric-objects.html#convex-hull-and-envelope>`__
     - First, create a MultiPolygon of the points (eg. using `unary_union`)
     - Then, you can access the `convex_hull` of that MultiPolygon object
 - Finally, buffer the convex hull polygon (eg. adding 0.1 decimal degrees to the extent using Shapely's `buffer <https://shapely.readthedocs.io/en/stable/manual.html#object.buffer>`__ method)

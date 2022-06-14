@@ -33,19 +33,20 @@ Lesson videos
 
     .. raw:: html
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/IxH29NbLr9s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <p>Vuokko Heikinheimo, University of Helsinki <a href="https://www.youtube.com/channel/UCGrJqJjVHGDV5l0XijSAN1Q">@ AutoGIS channel on Youtube</a>.</p>
+        <iframe width="720" height="405" src="https://www.youtube.com/embed/rVrn3vHlc5Y" title="Lesson 2.1 - Introduction to Geopandas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <p>Håvard Wallin Aagesen, University of Helsinki <a href="https://www.youtube.com/channel/UCGrJqJjVHGDV5l0XijSAN1Q">@ AutoGIS channel on Youtube</a>.</p>
 
-.. admonition:: Lesson 2.2 - Coordinate reference systems
-
-    .. raw:: html
-
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/yPBnkgkE0rU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <p>Vuokko Heikinheimo, University of Helsinki <a href="https://www.youtube.com/channel/UCGrJqJjVHGDV5l0XijSAN1Q">@ AutoGIS channel on Youtube</a>.</p>
-
-.. admonition:: Lesson 2.3 - Intro to exercise 2
+.. admonition:: Lesson 2.2 - Coordinate Reference Systems
 
     .. raw:: html
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/yo0JlJU1_WM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="720" height="405" src="https://www.youtube.com/embed/yPBnkgkE0rU" title="Lesson 2.2 - Coordinate Reference Systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>Vuokko Heikinheimo, University of Helsinki <a href="https://www.youtube.com/channel/UCGrJqJjVHGDV5l0XijSAN1Q">@ AutoGIS channel on Youtube</a>.</p>
+
+
+.. admonition:: Lesson 2.3 - Exercise 2
+
+    .. raw:: html
+
+        <iframe width="720" height="405" src="https://www.youtube.com/embed/C1xUXvK0Eb4" title="Lesson 2.3 - Exercise 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <p>Håvard Wallin Aagesen, University of Helsinki <a href="https://www.youtube.com/channel/UCGrJqJjVHGDV5l0XijSAN1Q">@ AutoGIS channel on Youtube</a>.</p>

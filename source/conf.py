@@ -8,16 +8,11 @@ extensions = [
     'sphinx.ext.githubpages',
     'sphinx.ext.todo',
     "sphinx_thebe",
-    'sphinxcontrib.googleanalytics',
     'IPython.sphinxext.ipython_console_highlighting',
     'IPython.sphinxext.ipython_directive',
     'myst_nb',
     'jupyter_sphinx',
 ]
-
-# Google Analytics ID to enable tracking of site traffic
-googleanalytics_id = "UA-88382509-1"
-googleanalytics_enabled = True
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -33,11 +28,11 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'AutoGIS'
-copyright = '2020, Henrikki Tenkanen & Vuokko Heikinheimo, Department of Geosciences and Geography, University of Helsinki'
-author = 'Henrikki Tenkanen & Vuokko Heikinheimo'
+copyright = '2021, Henrikki Tenkanen, Vuokko Heikinheimo & Håvard Wallin Aagesen, Department of Geosciences and Geography, University of Helsinki'
+author = 'Henrikki Tenkanen, Vuokko Heikinheimo & Håvard Wallin Aagesen'
 
 # The short X.Y version.
-version = '2020'
+version = '2021'
 # The full version, including alpha/beta/rc tags.
 release = 'site'
 
@@ -65,7 +60,7 @@ html_theme_options = {
     "repository_branch": "master",
     "path_to_docs": "source/",
     #"twitter_url": "https://twitter.com/pythongis",
-    #"google_analytics_id": "UA-159257488-1",
+    "google_analytics_id": "UA-88382509-1",
     "use_edit_page_button": True,
     "use_repository_button": True,
     "launch_buttons": {

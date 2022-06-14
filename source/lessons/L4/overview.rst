@@ -21,33 +21,26 @@ Following materials are partly based on documentation of `Geopandas <http://geop
 Lesson videos
 --------------
 
-.. admonition::  Lesson 4.1 - Geometric operations
+.. admonition:: Lesson 4.1 - Geometric operations
 
     .. raw:: html
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/oZq5usamI1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <p>Vuokko Heikinheimo, University of Helsinki <a href="https://www.youtube.com/channel/UCGrJqJjVHGDV5l0XijSAN1Q">@ AutoGIS channel on Youtube</a>.</p>
+        <iframe title='Lesson 4.1 - Geometric operations' width='720' height='405' src='https://www.youtube.com/embed/Nu1Y9rnfMBY' frameborder='0' allowfullscreen allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'></iframe><p>Håvard Wallin Aagesen, University of Helsinki <a href='https://www.youtube.com/c/AutomatingGISprocesses'>@ AutoGIS channel on Youtube</a>.</p>
 
-.. admonition::  Lesson 4.2 - Case: Creating a GIS layer for hospital districts
-
-    .. raw:: html
-
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/pQFgwiFZlPg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <p>Vuokko Heikinheimo, University of Helsinki <a href="https://www.youtube.com/channel/UCGrJqJjVHGDV5l0XijSAN1Q">@ AutoGIS channel on Youtube</a>.</p>
-
-
-.. admonition::   Lesson 4.3 - Data reclassification
+.. admonition:: Lesson 4.2 - Data reclassification
 
     .. raw:: html
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/XNEIgqiB49k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <p>Vuokko Heikinheimo, University of Helsinki <a href="https://www.youtube.com/channel/UCGrJqJjVHGDV5l0XijSAN1Q">@ AutoGIS channel on Youtube</a>.</p>
+        <iframe title='AutoGIS 2021 Lesson 4.2 - Data reclassification' width='720' height='405' src='https://www.youtube.com/embed/CbNwFQ7FuyU' frameborder='0' allowfullscreen allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'></iframe><p>Håvard Wallin Aagesen, University of Helsinki <a href='https://www.youtube.com/c/AutomatingGISprocesses'>@ AutoGIS channel on Youtube</a>.</p>
 
-
-.. admonition::   Lesson 4.4 - Exercise 4 intro
+.. admonition:: Lesson 4.3 - Case: Creating a GIS layer for hospital districts
 
     .. raw:: html
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/Te-kzk-GI4I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <p>Vuokko Heikinheimo, University of Helsinki <a href="https://www.youtube.com/channel/UCGrJqJjVHGDV5l0XijSAN1Q">@ AutoGIS channel on Youtube</a>.</p>
+        <iframe title='AutoGIS 2021 Lesson 4.3 - Case: Creating a GIS layer for hospital districts' width='720' height='405' src='https://www.youtube.com/embed/V_OSnyBWgHw' frameborder='0' allowfullscreen allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'></iframe><p>Håvard Wallin Aagesen, University of Helsinki <a href='https://www.youtube.com/c/AutomatingGISprocesses'>@ AutoGIS channel on Youtube</a>.</p>
 
+.. admonition:: Lesson 4.4 - Exercise 4
+
+    .. raw:: html
+
+        <iframe title='AutoGIS 2021 Lesson 4.4 - Exercise 4' width='720' height='405' src='https://www.youtube.com/embed/r_FESXwLNaA' frameborder='0' allowfullscreen allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'></iframe><p>Håvard Wallin Aagesen, University of Helsinki <a href='https://www.youtube.com/c/AutomatingGISprocesses'>@ AutoGIS channel on Youtube</a>.</p>

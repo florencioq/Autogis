@@ -19,7 +19,13 @@ Intro slides
 --------------
 .. admonition:: Lesson slides
 
-    `Slides from lesson 1 (PDF) <../../_static/autogis-intro-slides-2020.pdf>`__
+    `Slides from lesson 1 (PDF) <../../_static/autogis-intro-slides-2021.pdf>`__
+
+.. admonition:: Presentation
+
+    .. raw:: html
+
+        <embed title='Presentation' style='display:flex; width:100%;height:30em;' src='https://haavardaagesen.github.io/autogis-presentations/intro_slides_2021.html'>
 
 Lesson videos
 -------------
@@ -28,28 +34,26 @@ Lesson videos
 
     .. raw:: html
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/3JcJoVaNnAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <p>Vuokko Heikinheimo, University of Helsinki <a href="https://www.youtube.com/channel/UCGrJqJjVHGDV5l0XijSAN1Q">@ AutoGIS channel on Youtube</a>.</p>
+        <iframe width="720" height="405" src="https://www.youtube.com/embed/Cd0GeRIvt4A" title="Lesson 1.1 - Course overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <p>Håvard Wallin Aagesen, University of Helsinki <a href="https://www.youtube.com/channel/UCGrJqJjVHGDV5l0XijSAN1Q">@ AutoGIS channel on Youtube</a>.</p>
 
 .. admonition:: Lesson 1.2 - Shapely and geometric objects
 
     .. raw:: html
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/C-TXLPjIYR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <p>Vuokko Heikinheimo, University of Helsinki <a href="https://www.youtube.com/channel/UCGrJqJjVHGDV5l0XijSAN1Q">@ AutoGIS channel on Youtube</a>.</p>
+        <iframe width="720" height="405" src="https://www.youtube.com/embed/u5r57LZKS7o" title="Lesson 1.2 - Shapely and geometric objects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <p>Håvard Wallin Aagesen, University of Helsinki <a href="https://www.youtube.com/channel/UCGrJqJjVHGDV5l0XijSAN1Q">@ AutoGIS channel on Youtube</a>.</p>
 
-
-
-.. admonition:: Lesson 1.3 - Exercise 1 & quick git intro
+.. admonition:: Lesson 1.3 - Exercise 1
 
     .. raw:: html
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/7eEmVqWpDnI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <p>Vuokko Heikinheimo, University of Helsinki <a href="https://www.youtube.com/channel/UCGrJqJjVHGDV5l0XijSAN1Q">@ AutoGIS channel on Youtube</a>.</p>
+        <iframe width="720" height="405" src="https://www.youtube.com/embed/QzlDGWSxyiE" title="Lesson 1.3 - Exercise 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <p>Håvard Wallin Aagesen, University of Helsinki <a href="https://www.youtube.com/channel/UCGrJqJjVHGDV5l0XijSAN1Q">@ AutoGIS channel on Youtube</a>.</p>
 
-.. admonition:: Installing a Python GIS Environment
+.. admonition:: Installing a Python GIS environment
 
     .. raw:: html
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/wJAUwhur-DQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="720" height="405" src="https://www.youtube.com/embed/wJAUwhur-DQ" title="Installing a Python GIS environment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>Vuokko Heikinheimo, University of Helsinki <a href="https://www.youtube.com/channel/UCGrJqJjVHGDV5l0XijSAN1Q">@ AutoGIS channel on Youtube</a>.</p>
